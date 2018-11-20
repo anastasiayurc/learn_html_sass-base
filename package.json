@@ -1,0 +1,28 @@
+{
+  "name": "arcsocials",
+  "version": "0.0.1",
+  "dependencies": {
+    "gulp": "*",
+    "gulp3-last-run": "*",
+    "gulp-filter-since": "*",
+    "browser-sync": "*",
+    "gulp-autoprefixer": "*",
+    "gulp-imagemin": "*",
+    "gulp-image": "*",
+    "gulp-clean-css": "*",
+    "gulp-minify-css": "*",
+    "gulp-rigger": "*",
+    "gulp-sass": "*",
+    "gulp-sourcemaps": "*",
+    "gulp-uglify": "*",
+    "gulp-plumber": "*",
+    "gulp-js-import": "*",
+    "gulp-watch": "*",
+    "imagemin-pngquant": "*",
+    "imagemin-zopfli": "*",
+    "imagemin-mozjpeg": "*",
+    "imagemin-giflossy": "*",
+    "rimraf": "*",
+    "gulp-load-plugins": "*"
+  }
+}
